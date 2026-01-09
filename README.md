@@ -1,5 +1,11 @@
 # Soyle-Cafe-Management-System
 Soyle | Next-Gen Café Operating System. An end-to-end hospitality solution featuring QR mobile ordering, real-time Kitchen Display System (KDS), and inventory analytics. Built on a high-concurrency Microservices architecture (Go + React).
+
+
+### Logo
+![Kitchen Display Screen](assets/soyle_logo.png)
+
+
 # Next-Generation Cafe Order Management System
 
 > **"Taste at its fastest."**
@@ -21,7 +27,14 @@ Unlike traditional POS systems requiring expensive proprietary hardware, Soyle o
 we implemented a Modular Monolith architecture. We didn't just build a web app; we engineered a high-performance operating system for restaurants. Our architectural choices were driven by the need for **low latency**, **high concurrency**, and **cost efficiency** during peak operational hours. 
 
 
-> 📂 **Deep Dive:** For comprehensive details on our Database Schema, CI/CD Pipelines, and API Contracts, please refer to the technical documents in the `docs/` directory.
+> 📂 Detailed Documentation
+> Transparency is key. Review our detailed project documents:
+
+* **Technical Architecture (v1):** [View PDF](docs/docs/soyle_documentation.pdf)
+* **Admin Panel User Manual:** [View PDF](docs/docs/Soyle_User_Manual.pdf)
+* **Product Vision & Strategy:** [View PDF](docs/docs/Product_Vision.pdf)
+* **Project Team Info Sheet:** [View PDF](docs/docs/Project_Team_Info_Sheet.pdf)
+* **Personas:** [View PDF](docs/docs/Personas_and_Scenarios.pdf)
 
 ### Core Technology Stack
 * **Backend:** Golang (Fiber Framework) – Selected for high concurrency and low-latency API responses.
